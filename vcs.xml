@@ -10,8 +10,12 @@
           <option name="url" value="ssh://git@ic.cabal.com.br:7999/pmc/placamob-pom-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@ic.cabal.com.br:7999/~abraao.queiroz/sippe-processor-mob.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace-intellij" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace-microservices" />
   </component>
 </application>
