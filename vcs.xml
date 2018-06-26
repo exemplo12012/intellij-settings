@@ -11,11 +11,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@ic.cabal.com.br:7999/~abraao.queiroz/sippe-processor-mob.git" />
+          <option name="url" value="https://gitlab.com/paymentprocess/batch" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="jonjon.salcedo@gmail.com" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace-microservices" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace-intellij" />
   </component>
 </application>
