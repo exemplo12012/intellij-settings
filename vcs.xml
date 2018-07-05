@@ -3,7 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/paymentprocess/issuerback.git" />
+          <option name="url" value="https://gitlab.com/paymentprocess/batch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -11,7 +11,7 @@
           <option name="userName" value="rivhenrique@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/paymentprocess/batch.git" />
+          <option name="url" value="https://gitlab.com/paymentprocess/issuerback.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
