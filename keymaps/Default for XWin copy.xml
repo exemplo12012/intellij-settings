@@ -14,7 +14,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
@@ -46,6 +48,7 @@
   <action id="MethodDown" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MethodUp" />
+  <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="alt down" />
@@ -72,6 +75,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="ResizeToolWindowDown" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
@@ -80,6 +87,14 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepOut" />
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="openAssertEqualsDiff" />
