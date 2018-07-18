@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl 3" />
@@ -43,6 +46,10 @@
   <action id="GoToClass" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark3" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoTest" />
   <action id="GuiDesigner.CreateListener" />
   <action id="Images.ShowThumbnails" />
