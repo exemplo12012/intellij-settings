@@ -2,6 +2,9 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
   <action id="ClassTemplateNavigation" />
@@ -18,6 +21,8 @@
   <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine">
@@ -38,6 +43,9 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -72,11 +80,13 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NextTab" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PreviousTab" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
