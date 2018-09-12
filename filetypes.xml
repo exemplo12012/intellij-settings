@@ -5,6 +5,8 @@
       <mapping pattern="tc_master_800001_case_1_s" type="PLAIN_TEXT" />
       <mapping pattern="tc_master_800001_case_1_r" type="PLAIN_TEXT" />
       <mapping pattern="V140__insert_function_code_mastercard.sql" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_001_s" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800004_case_001_s" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
