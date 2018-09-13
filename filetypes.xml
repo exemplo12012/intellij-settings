@@ -1,12 +1,67 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="tc_master_800001_case_025_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_037_r" type="PLAIN_TEXT" />
       <mapping pattern="tc_master_800001_case_002_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_014_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_006_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_023_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_026_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_038_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_010_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_030_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_025_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_015_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_007_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_027_0100_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800004_case_001_s" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800004_case_001_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_011_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_031_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_033_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_016_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_008_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_028_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_020_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800004_case_002_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_012_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_021_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_032_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_022_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_019_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_017_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_009_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_027_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_029_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_001_s" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_001_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_021_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_013_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_034_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_018_r" type="PLAIN_TEXT" />
       <mapping pattern="tc_master_800001_case_1_s" type="PLAIN_TEXT" />
       <mapping pattern="tc_master_800001_case_1_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_002_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_022_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_014_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_034_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_019_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_011_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_003_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_023_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_035_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_008_r" type="PLAIN_TEXT" />
       <mapping pattern="V140__insert_function_code_mastercard.sql" type="PLAIN_TEXT" />
-      <mapping pattern="tc_master_800003_case_001_s" type="PLAIN_TEXT" />
-      <mapping pattern="tc_master_800004_case_001_s" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_012_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_004_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_010_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_024_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_036_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_009_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_024_0400_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800001_case_013_r" type="PLAIN_TEXT" />
+      <mapping pattern="tc_master_800003_case_005_r" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
