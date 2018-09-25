@@ -67,6 +67,8 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
@@ -93,9 +95,13 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
