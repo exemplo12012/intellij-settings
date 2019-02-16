@@ -54,6 +54,10 @@
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="shift alt f6" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
   <action id="GoToClass" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -71,6 +75,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoTest" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="Images.ShowThumbnails" />
   <action id="Move" />
   <action id="MoveLineDown">
