@@ -82,8 +82,12 @@
           <option name="url" value="https://github.com/leereilly/swot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/paymentprocess/issuerfront" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documentos" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Reactit" />
   </component>
 </application>
