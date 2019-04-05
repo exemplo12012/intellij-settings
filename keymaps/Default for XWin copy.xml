@@ -51,6 +51,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="GoToClass" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark3" />
@@ -62,6 +65,7 @@
   <action id="GuiDesigner.CreateListener" />
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceParameter" />
   <action id="MethodDown" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="MethodUp" />
